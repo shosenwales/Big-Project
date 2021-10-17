@@ -25,6 +25,8 @@ function getInputValue()
         a.click();
         document.body.removeChild(a);
     }
+
+    alert('DP downloaded, kindly check your gallery')
 }
 
 
